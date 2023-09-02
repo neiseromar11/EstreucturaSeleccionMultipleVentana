@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstreucturaSeleccionMultipleVentana", "EstreucturaSeleccionMultipleVentana\EstreucturaSeleccionMultipleVentana.csproj", "{01522CC6-75CE-4BEE-AC21-B9450B427BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01522CC6-75CE-4BEE-AC21-B9450B427BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01522CC6-75CE-4BEE-AC21-B9450B427BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01522CC6-75CE-4BEE-AC21-B9450B427BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01522CC6-75CE-4BEE-AC21-B9450B427BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16541390-AEEF-49A1-B845-24D422DDAF76}
+	EndGlobalSection
+EndGlobal
